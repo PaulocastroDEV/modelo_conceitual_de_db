@@ -6,6 +6,7 @@
 
 -Narrativa - Produto
 <br>
+<br>
 *Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros)
 <br>
 *Cada produto possui um fornecedor
@@ -17,6 +18,7 @@
 
 -Narrativa - Cliente
 <br>
+<br>
 *O cliente pode se cadastrar no site com seu CPF ou CNPJ
 <br>
 *O Endereço do cliente irá determinar o valor do frete
@@ -25,6 +27,7 @@
 <br>
 
 -Narrativa – Pedido
+<br>
 <br>
 *O pedidos são criados por clientes e possuem informações de compra, endereço e status da entrega
 <br>
